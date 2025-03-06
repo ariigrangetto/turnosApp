@@ -53,44 +53,44 @@ h1{
     height: 310px;
     width: 300px;
     border-radius: 10px;
+}
 
-    input{
-        border:none;
-        outline: none;
-        margin-top: 12px;
-        font-size: 15px;
-        background-color: transparent;
-    }
-    input::placeholder{
-        font-size: 15px;;
-    }
-    p{
-        justify-content: center;
-        margin: auto;
-        display: flex;
-        margin-top: 10px;
-    }
-    #add{
-        justify-content: center;
-        display: flex;
-        margin:auto;
-        margin-top: 15px;
-        border:none;
-        outline: none;
-        cursor: pointer;
-        font-size: 15px;
-        padding: 10px;
-        border-radius:  5px;
-    }
-    select{
-        border:none;
-        outline: none;
-        font-size: 15px;
-        background-color: transparent;
-    }
-    #date{
-        margin-right: 90px;;
-    }
+input{
+    border:none;
+    outline: none;
+    margin-top: 12px;
+    font-size: 15px;
+    background-color: transparent;
+}
+input::placeholder{
+    font-size: 15px;;
+}
+p{
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    margin-top: 10px;
+}
+#add{
+    justify-content: center;
+    display: flex;
+    margin:auto;
+    margin-top: 15px;
+    border:none;
+    outline: none;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 10px;
+    border-radius:  5px;
+}
+select{
+    border:none;
+    outline: none;
+    font-size: 15px;
+    background-color: transparent;
+}
+#date{
+    margin-right: 90px;;
 }
 
 input[type="time"]{
