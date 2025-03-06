@@ -248,7 +248,8 @@ input[type="date"]{
 
 #dateTime{
     border-radius: 5px;
-    color:black;
+    padding: 4px;
+    background-color:#fdebe5;
 }
 
 #motive{
