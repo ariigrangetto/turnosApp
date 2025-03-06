@@ -139,7 +139,7 @@ function renderTurnos() {
                Seccion: ${turno.seccion} <br>
                Motivo: ${turno.motivo} <br>
               <button id="delete-${index}" class="delete">
-              Delete turno
+              Eliminar turno
               </button>
             </div>
           </div>
