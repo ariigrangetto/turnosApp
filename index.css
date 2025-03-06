@@ -154,19 +154,17 @@ input[type="date"]{
 #nameText{
     background-color:#fdebe5;
     border-radius: 5px;
-    padding: 4px;
+
 }
 
 #dateTime{
     background-color:#fdebe5;
     border-radius: 5px;
-    padding: 4px;
 }
 
 #motive{
     outline: none;
     background-color: transparent;
-    font-size: 15px;
 }
 
 #dataturnos{
